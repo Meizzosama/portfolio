@@ -133,8 +133,6 @@ const educationInfo = {
       duration: "September 2019 - July 2023",
       desc: "Participated in the Google Student developer community in Iqra University.",
       descBullets: [
-        // "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     }
   ]
@@ -171,10 +169,8 @@ const workExperiences = {
       company: "Design Henge",
       companylogo: require("./assets/images/ds_logo.png"),
       date: "Ausgust 2023 – Present"
-      //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       // descBullets: [
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+     
       // ]
     },
     {
@@ -182,7 +178,6 @@ const workExperiences = {
       company: "CodSoft",
       companylogo: require("./assets/images/cod_logo.png"),
       date: "Oct  2023 – Nov 2023"
-      // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   
   ]
