@@ -26,7 +26,7 @@ const greeting = {
     "Passionate Junior Flutter Developer 🚀 having an experience of building Web and Mobile applications with Flutter / Reactjs / Nodejs / Wordpress and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1WKRFLHkO_TviLqRDzzBRnSiSh_dtSIi6/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1TAld09mm4mZXZVGyLdd5-_W9apvFa7WA/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
